@@ -1,0 +1,6 @@
+touch README.md
+echo "# Weather Files" > README.md
+git add README.md
+git commit -m "Initial commit with README"
+git push origin main
+
